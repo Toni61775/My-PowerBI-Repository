@@ -78,9 +78,6 @@ A key focus of this project was presenting data in a **clear, meaningful narrati
 ---
 
 
-<img width="370" height="300" alt="image" src="https://github.com/user-attachments/assets/134536f0-1e95-4c9a-b8ea-f07820dee8e4" />
-
-
 ---
 ## ✅ Summary
 This project showcases my ability to:
